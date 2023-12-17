@@ -1,1 +1,2 @@
-# mnist_image_classification
+# Learning computer vision: 
+### Training a neural network on MNIST with Keras
